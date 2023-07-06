@@ -62,6 +62,10 @@ void TaskCommSystem( void *pvParameters );
 #define RUDDER_PIN    4
 #define BLDC_PIN      5
 
+/*--------------------------------------------------*/
+/*----------------- Define flags -------------------*/
+/*--------------------------------------------------*/
+
 #define DEBUG_BPID  1
 #define DEBUG_NPID  0
 #define DEBUG_BPM   0
